@@ -7,3 +7,7 @@ Test2:
 added branch dev to create PR and test
 
 dev added
+
+dev commit 1
+dev commit 2
+dev commit 3
