@@ -9,8 +9,4 @@ added branch dev to create PR and test
 dev added
 
 dev commit 1
-dev commit 2
-dev commit 3
-
-qa commit
-dev commit 1
+qa commit manual
