@@ -9,4 +9,8 @@ added branch dev to create PR and test
 dev added
 
 dev commit 1
+<<<<<<< HEAD
 qa commit manual
+=======
+dev commit 2
+>>>>>>> ec7c041 (comm2)
